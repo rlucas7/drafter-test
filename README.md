@@ -1,4 +1,4 @@
-# collections2
+# drafter-test
 A simple package to test out the release notes from drafter github action 
 
 
